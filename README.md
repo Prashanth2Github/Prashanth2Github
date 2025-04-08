@@ -94,8 +94,7 @@ Oct 2024 - Nov 2024
 
 ## ⚡ **Fun Fact**
 - I'm always challenging myself to think outside the box, whether it's through problem-solving or creating innovative tech solutions.  
-- When I’m not coding, you’ll find me watching cricket or diving into new music genres 🎶
-
+- When I’m not coding, you’ll find me playing cricket, watching it, or diving into new music genres 🎶
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
