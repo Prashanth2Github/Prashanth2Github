@@ -62,9 +62,10 @@ I'm a **Computer Science and Engineering** student at **Vasavi College of Engine
 ---
 
 ## 🏆 **Certifications**
-- **NPTEL Python (Elite+Silver)**
-- **Cisco Programming Essentials in Python**
-- **Infosys Springboard - Java Programming**
+- [**NPTEL Python (Elite+Silver)**](https://drive.google.com/file/d/12kZVsduNBgIDDXq_YcGGOj4fOsxpL_CD/view?usp=sharing)
+- [**Cisco Programming Essentials in Python**](https://drive.google.com/file/d/18AD-QRzGg3iQ47Ef_wZ2XCimZN06OlaA/view?usp=sharing)
+- [**Infosys Springboard - Java Programming**](https://drive.google.com/file/d/12chPT0bIkV7VeaYIXd2VtEhy0r5inwTV/view?usp=sharing)
+
 
 ---
 
