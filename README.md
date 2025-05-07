@@ -71,9 +71,9 @@ I'm a **Computer Science and Engineering** student at **Vasavi College of Engine
 
 ## 🎯 **Work Experience**
 **Tester Intern** at **Wyreflow Technologies**  
-Oct 2024 - Nov 2024
-
-🔹 Worked on testing web applications and ensuring software quality through automated and manual testing.
+Oct 2024 - Nov 2024  
+🔹 Worked on testing web applications and ensuring software quality through automated and manual testing.  
+📄 [View Internship Certificate](https://drive.google.com/file/d/1MvxbIyGF8Db6ibzWkslW-lf9rhK5yD00/view?usp=sharing)
 
 ---
 
