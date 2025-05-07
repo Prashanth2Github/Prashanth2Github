@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Prashanth Bonkuru**
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![GitHub Banner](https://i.imgur.com/yourImageID.png)
 
 
 ## 🚀 About Me
