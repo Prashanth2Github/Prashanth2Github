@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm a **Computer Science and Engineering** student at **Vasavi College of Engineering**, Hyderabad. Passionate about **Software Development**, **Web Technologies**, and **AI**, I love solving problems and building innovative solutions. Always up for new challenges! 🚀
+I'm a **Computer Science and Engineering** student from **Vasavi College of Engineering**, Hyderabad. Passionate about **Software Development**, **Web Technologies**, and **AI**, I love solving problems and building innovative solutions. Always up for new challenges! 🚀
 
 ---
 
